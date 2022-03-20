@@ -1,0 +1,23 @@
+.p{
+    background-color: #e999e0;
+    font-family: Verdana,  'DejaVu Sans', sans-serif;
+}
+
+#div1{
+    color:  #3022a7 ;
+    font-size: 36px;
+}
+
+#p{
+    font-size: 24px;
+}
+
+.p1{
+    font-size: 24px;
+}
+
+#div2{
+    background-color: #6bee6b;
+    font-size: 24px;
+    font-weight: bold;
+}
