@@ -1,0 +1,15 @@
+.buttonmain,
+.buttonalt{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.buttonmain{
+    background-color: black;
+    color: white;
+}
+
+.buttonalt{
+    background-color: yellow;
+    color: black;
+}
